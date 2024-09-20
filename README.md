@@ -1,5 +1,9 @@
-Steps:
-Read the README file: Open the README file and read its contents.
+Steps_1:
+Python Script
+First, you need to install the qrcode and Pillow libraries:
+
+pip install qrcode[pil] Pillow
+
 Generate a QR Code: Use the qrcode library to generate a QR code from the README file content.
 Save the QR Code: Save the generated QR code as an image.
 Python Script 
