@@ -1,6 +1,6 @@
-Steps_1:
-Python Script
-First, you need to install the qrcode and Pillow libraries:
+* Steps_1
+     Python Script
+      First, you need to install the qrcode and Pillow libraries:
 
 pip install qrcode[pil] Pillow
 
